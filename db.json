@@ -29,12 +29,12 @@
         },
         {
             "id": 4,
-            "nom": "HP",
-            "description": "",
+            "nom": "SEJOUR RYTHME",
+            "description": "Salons couleur marron pour votre maison",
             "image": "sejour-rythme.jpg",
             "dimension": "Hauteur: 70 / Largeur: 69 / Profondeur: 68",
-            "quantite": 20,
-            "prix": 500
+            "quantite": 2,
+            "prix": 3800
         }
     ]
 }
