@@ -15,7 +15,7 @@
             "description": "Étagères murales et présentoirs ,rangez vos affaires",
             "image": "Wall & Display Shelves.jpeg",
             "dimension": "Hauteur: 50 / Largeur: 60 ",
-            "quantite": 0,
+            "quantite": -1,
             "prix": 210
         },
         {
