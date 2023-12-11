@@ -15,6 +15,7 @@
             "nom": "Étagères murales",
             "description": "Étagères murales et présentoirs ,rangez vos affaires",
             "image": "Wall & Display Shelves.jpeg",
+            "color": "beige",
             "dimension": "Hauteur: 50 / Largeur: 60 ",
             "quantite": 0,
             "prix": 210
@@ -24,6 +25,7 @@
             "nom": "Etagères",
             "description": "Incroyable collection de décorations d'étagères murales en bois esthétiques",
             "image": "69434ca5b78aae9f740e0757abf7bcdb.jpg",
+            "color": "beige",
             "dimension": "Hauteur: 30 / Largeur: 40",
             "quantite": 20,
             "prix": 190
@@ -33,6 +35,7 @@
             "nom": "SEJOUR RYTHME",
             "description": "Salons couleur marron pour votre maison",
             "image": "sejour-rythme.jpg",
+            "color": "beige",
             "dimension": "Hauteur: 70 / Largeur: 69 / Profondeur: 68",
             "quantite": 2,
             "prix": 3800
@@ -42,6 +45,7 @@
             "nom": "SEJOUR RYTHME",
             "description": "Salons couleur marron pour votre maison",
             "image": "sejour-rythme.jpg",
+            "color": "beige",
             "dimension": "Hauteur: 70 / Largeur: 69 / Profondeur: 68",
             "quantite": 2,
             "prix": 3800
