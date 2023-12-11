@@ -5,6 +5,7 @@
             "nom": "Chaise bleue",
             "description": "chaises de bureau vraiment confortables et mignonnes",
             "image": "bluechaire.jpeg",
+            "color": "blue",
             "dimension": "Hauteur: 70 / Largeur: 69 / Profondeur: 68",
             "quantite": 20,
             "prix": 320
