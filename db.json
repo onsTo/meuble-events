@@ -49,6 +49,47 @@
             "dimension": "Hauteur: 70 / Largeur: 69 / Profondeur: 68",
             "quantite": 2,
             "prix": 3800
-        }
+        },
+        {
+            "id": 6,
+            "nom": "Rangement cuisine : les 40 meubles de cuisine pleins d'astuces",
+            "description": "La cuisine s'est imposée comme une pièce à vivre de la maison. Conviviale à souhait, elle se doit d'être parfaitement fonctionnelle, ce qui passe par un agencement ergonomique et des rangements aussi nombreux que bien pensés. Armoires coulissantes, étagères murales ou extractibles, tiroirs accessoirisés dédiés aux couverts ou à la verrerie, barres de crédence accueillant vos ustensiles préférés... Les marques rivalisent d'ingéniosité pour rendre la vie en cuisine toujours plus pratique. Zoom sur 40 solutions intelligentes imaginées par les cuisinistes pour optimiser la surface de rangement dans la cuisine et vous faciliter grandement le quotidien.
+ ... less",
+            "image": "982ee89d826b193e6ca62433f0e4b986.jpg",
+            "color": "white",
+            "dimension": "Hauteur: 90 / Largeur: 50",
+            "quantite": 5,
+            "prix": 2400
+        },
+                {
+            "id": 7,
+            "nom": "Rangements malins : astuces pour gagner de la place dans sa maison",
+            "description": "[Inspiration Pinterest] Lassé de chercher en permanence de l'espace pour ranger vos affaires ? Aussi farfelues qu'ingénieuses, de nombreuses astuces rangement...",
+            "image": "50827efebda2de0b4501406aa80c91f4.jpg",
+            "color": "beige",
+            "dimension": "Hauteur: 50 / Largeur: 70",
+            "quantite": 0,
+            "prix": 600
+        },        {
+            "id": 8,
+            "nom": "Selsey - MALLMON - Fauteuil à oreilles - 104 cm - bleu marine - velours hydrophobe - pieds en bois de hêtre noirs - style glamour",
+            "description": "Mobilier d'intérieur > Meuble de salon > Fauteuil SELSEY, Vous êtes habitué aux chaînes de cafés à la mode ? Pourquoi ne pas introduire un peu de ce climat dans votre intérieur ? Le fauteuil à oreilles Mallmon fera parfaitement ses preuves ! Mallmon se caractérise par sa forme simple, qui s’adaptera facilement à chaque aménagement d’intérieur. Il repose sur les pieds en bois ce qui, en combinaison avec une belle couleur du tissu d’ameublement, crée un ensemble chic irrésistible. Asseyez-vo
+ ...",
+            "image": "bb19b5205c2f38e5261464d8567daaa0.jpg",
+            "color": "beige",
+            "dimension": "Hauteur: 50 / Largeur: 30 / Profondeur: 68",
+            "quantite": 3,
+            "prix": 650
+        },{
+            "id": 9,
+            "nom": "MIKE - Petit meuble TV",
+            "description": "PRODUIT EXPÉDIÉ DU PORTUGAL SOUS 5 JOURS OUVRÉS Le meuble TV MIKE est à la fois compact et pratique. Idéal dans un petit salon, ce petit meuble TV est équipé de deux niches de rangement dont une fermée. Fonctionnel et discret, il s'adapte à tous les types de décoration. Son décor en chêne naturel apporte de la lumière à votre intérieur. Le système des portes est à fermeture lente. Solide, avec ses pieds en bois massif issu de forêts européennes éco-gérées, ce petit meuble TV dispose d'espaces pour faire passer vos câbles et accueillir votre télévision, chaîne-hifi ou lampe à poser. Le style compact, fonctionnel et adapté au quotidien fait de ce petit meuble TV un atout dans le rangement de votre studio, appartement, petit salon urbain ou pièce étroite. Ce meuble TV est fabriqué au Portugal.
+",
+            "image": "5d8594d7e65ea5b84d4d7706ef50f414.jpg",
+            "color": "beige",
+            "dimension": "Hauteur: 30 / Largeur: 50 ",
+            "quantite": 3,
+            "prix": 360
+        },
     ]
 }
